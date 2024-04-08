@@ -3,7 +3,7 @@
 {
 "layout":"logo",
 "showMenu":true,
-"showLogo":true,
+"showLogo":false,
 "showSearch":true,
 "showCart":false,
 "showNotification":true,
