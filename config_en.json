@@ -1029,7 +1029,7 @@
 "marginBottom":14.973564791065872,
 "marginLeft":14.976930273759336,
 "marginRight":15.012519286150008,
-"bottomBarStyle":"slideEffect",
+"bottomBarStyle":"opacityEffect",
 "alwaysShowTabBar":false,
 "TabBarIndicator":{
 "height":0.0,
