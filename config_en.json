@@ -1135,7 +1135,7 @@
 "colorActiveIcon":"ff1d34c5",
 "iconSize":23.025228226675463,
 "indicatorStyle":"material",
-"showFloatingClip":true,
+"showFloatingClip":false,
 "showFloating":true,
 "enableOnTop":false,
 "enableDivider":true,
@@ -1151,7 +1151,7 @@
 "marginBottom":0.0,
 "marginLeft":0.0,
 "marginRight":0.0,
-"bottomBarStyle":"slideEffect",
+"bottomBarStyle":"static",
 "alwaysShowTabBar":false,
 "TabBarIndicator":{
 "height":0.0,
