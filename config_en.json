@@ -1175,10 +1175,10 @@
 "location":"startDocked",
 "width":50.0,
 "height":50.0,
-"elevation":0.0,
-"floatingType":"rectangle",
-"notchMargin":0.0,
-"isCoverMode":false}
+"elevation":2.0,
+"floatingType":"circle",
+"notchMargin":2.0,
+"isCoverMode":true}
 },
 "ProductDetail":"simpleType"
 },
