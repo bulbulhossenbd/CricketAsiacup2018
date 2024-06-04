@@ -969,6 +969,8 @@
 ],
 "Setting":{
 "TabBarConfig":{
+"enable": true,
+"lazyLoading": true,
 "enableOnTop":false,
 "color":null,
 "radiusTopLeft":0,
